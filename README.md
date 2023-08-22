@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/javierismaelaguilararmijos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javierismaelaguilararmijos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/javier-ismael-aguilar-armijos-182006201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javierismaelaguilararmijos" height="30" width="40" /></a>
 <a href="https://instagram.com/javieriaa0777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javieriaa0777" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucrj0pud57vllenhpilykwtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/channel/ucrj0pud57vllenhpilykwtw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCrj0PuD57vlLEnhPiLYkWTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/channel/ucrj0pud57vllenhpilykwtw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
