@@ -14,6 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![]([https://github-profile-trophy.vercel.app/?username=Javier](https://github-profile-trophy.vercel.app/?username=Javier)))
+[![](https://visitcount.itsvg.in/api?id=Javish&label=Vistas&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Javier Aguilar&limit=5&theme=dark&combine_all_yearly_contributions=true)
