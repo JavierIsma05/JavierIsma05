@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Javier%20Ismael%20Aguilar%20Armijos&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-# 👨‍💻 Javier Ismael Aguilar Armijos
 
 ### 🚀 Desarrollador Full Stack | Backend Developer | Cloud & DevOps
 
